@@ -12,12 +12,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-/**
- * 类说明
- *
- * @author iceb
- * @version $Id: SeTest.java, v0.1 2017/6/28.17:19 Exp $
- */
+
 
 public class SeTest {
 
